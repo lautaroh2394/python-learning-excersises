@@ -20,7 +20,7 @@ Al final, el programa debe mostrar una hamburguesa con pan arriba y abajo, y sol
 Para dibujar una capa, llamá a la función correspondiente, por ejemplo: `dibujarLechuga()`.
 Probá distintas combinaciones, incluyendo decir que no a todos los ingredientes.
 
-Podés ejecutar el script en la consola escribiendo: `python hamburguesa_esqueleto.py`
+Podés ejecutar el script en la consola escribiendo: `python burguer-shop/hamburguesa_esqueleto.py`
 
 ## 2. Elegir cantidad de carnes
 
