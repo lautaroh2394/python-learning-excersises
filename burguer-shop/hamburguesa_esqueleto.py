@@ -23,7 +23,7 @@ def dibujarCarne():
 
 
 def dibujarPanInferior():
-    print("  _________")
+    print(" \\_________/")
 
 def atenderCliente():
     respuesta = input("Bienvenido a El Gordo burguer shop! Vamos a armar una hamburguesa? (s/n): ").strip().lower()
